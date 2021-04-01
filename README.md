@@ -1,5 +1,9 @@
 # Jenkins
 
+# groovy
 
+# PowerShell
+
+# SQLplus
 
 
