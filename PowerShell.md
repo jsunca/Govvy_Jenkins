@@ -1,6 +1,7 @@
 #PowerShell
 
-https://adamtheautomator.com/jenkins-powershell/
+Install PowerShell plugin 1st.
+Step by Step example: https://adamtheautomator.com/jenkins-powershell/
 ```PowerShell
 # Create Temp Directory
 if (-not(Test-Path -Path 'C:\temp'))
