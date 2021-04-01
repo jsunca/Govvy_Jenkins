@@ -6,7 +6,8 @@ import jenkins.model.Jenkins
 def instance = Jenkins.instance
 instance.setCrumbIssuer(null)
 ```
-## Temporarily disable Jenkins CSRF (https://www.jenkins.io/doc/book/managing/security/#cross-site-request-forgery)
+## Temporarily disable Jenkins CSRF 
+(https://www.jenkins.io/doc/book/managing/security/#cross-site-request-forgery)
 ```groovy
 import jenkins.model.Jenkins
 def instance = Jenkins.instance
